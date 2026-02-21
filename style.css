@@ -1,0 +1,46 @@
+header {
+    
+    text-align: center;
+    background: url("https://ivanteevaao-droid.github.io/sait118/1.png")no-repeat 100%;
+    margin: 25px;
+}
+a{
+color: rgb(236, 0, 236);
+text-decoration: none;
+border: 1px solut white;
+background-color: aliceblue;
+border-radius: 15px;
+padding: 10px;
+margin: 20px;
+font-size: 30px;
+}
+body{
+     
+  font-family: 'Alumni Sans Collegiate One', sans-serif;
+
+
+background-color: black;
+
+}
+p{
+color: rgb(149, 255, 211);
+font-size: 30px;
+}
+h1{
+color: rgb(255, 230, 0);
+font-size: 50px;
+}
+
+footer {
+color: black;
+border: 5px solid rgb(149, 255, 211);
+background-color: rgb(149, 255, 211);
+}
+footer p{
+  color: black;
+  font-size: 30px;
+}
+header a{
+font-size: 50px;
+
+}
